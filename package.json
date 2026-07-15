@@ -1,0 +1,12 @@
+{
+  "name": "geo-locator-b4118e",
+  "version": "1.0.0",
+  "description": "A geo-locator utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["geo-locator", "utility"],
+  "license": "MIT"
+}
